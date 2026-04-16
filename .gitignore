@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Backend
+backend/target/
+
+# Frontend
+node_modules/
+dist/
+
+# Common
+.env
+*.log
